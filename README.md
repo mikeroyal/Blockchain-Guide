@@ -6,6 +6,15 @@
 
 #### A guide covering Blockchain including the applications and tools that will make you a better and more efficient Blockchain developer.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123559327-2ac76c00-d750-11eb-8507-6f2a81724412.png">
+  <br />
+</p>
+
+# Blockchain Learning Resources
+
 [Blockchain](https://www.blockchain.com/) is a distributed database meaning that the storage devices used for the database are not all connected to a common processor. It maintains a growing decentralized digital list of ordered records, called blocks. Each block has a timestamp and a link to a previous block. By the system being decentralization it allows for complete transparency in all shared information.
 
 [IBM Blockchain Essentials](https://www.ibm.com/skills/topics/blockchain/)
@@ -16,7 +25,7 @@
 
 [Blockchain Certifications](https://www.blockchain-council.org/)
 
-## Tools
+# Blockchain Tools and Freamworks
 
 [Hyperledger](https://www.hyperledger.org/) is a new Collaborative Project at The Linux Foundation. The technical community is just getting started and will be adding code to the repository in the coming weeks. Check hyperledger.org for more information about joining the mailing lists and participating in the conversations. 
 
@@ -45,3 +54,13 @@
 [inDEX](https://distribuyed.github.io/index/) is a comprehensive list of decentralized exchanges (DEX) of cryptocurrencies, tokens, derivatives and futures, and their protocols.
 
 [Squeezer](https://squeezer.io/) is a platform that empowers new-entry blockchain developers to build serverless dApps easily. 
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Blockchain-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
