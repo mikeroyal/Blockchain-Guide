@@ -27,7 +27,7 @@
 
 6. [Python Development](https://github.com/mikeroyal/Blockchain-Guide#python-development)
 
-7. [JavaScript/TypeScript Development](https://github.com/mikeroyal/Blockchain-Guide#typescript-development)
+7. [JavaScript/TypeScript Development](https://github.com/mikeroyal/Blockchain-Guide#javascripttypescript-development)
 
 8. [C# Development](https://github.com/mikeroyal/Blockchain-Guide#c-development)
 
@@ -37,7 +37,7 @@
 
 11. [Rust Development](https://github.com/mikeroyal/Blockchain-Guide#rust-development)
 
-12. [Erlang Development](https://github.com/mikeroyal/Blockchain-Guide#rust-development)
+12. [Erlang Development](https://github.com/mikeroyal/Blockchain-Guide#erlang-development)
 
 
 # Blockchain Learning Resources
