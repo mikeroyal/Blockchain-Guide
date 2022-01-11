@@ -62,6 +62,13 @@
 # Blockchain Tools, Libraries and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
 
+[Lightning Network (LN)](https://lightning.network/) is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. It was created in response to scalability issues with Bitcoin, namely the speed and cost of Bitcoin transactions. Bitcoin's current theoretical maximum transactions per second (TPS) is 10, though in reality it is between 3 and 7.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/148870820-21722e8e-8fd3-4bd3-b755-d1e1cf006c29.png">
+  <br />
+</p>
+
 [Hyperledger](https://www.hyperledger.org) is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools like Hyperledger Caliper and libraries like Hyperledger Ursa.
 
 [Hyperledger Caliper](https://www.hyperledger.org/use/caliper) is a blockchain benchmark tool, it allows users to measure the performance of a blockchain implementation with a set of predefined use cases. Hyperledger Caliper will produce reports containing a number of performance indicators to serve as a reference when using the following blockchain solutions: Hyperledger Besu, Hyperledger Burrow, Ethereum, Hyperledger Fabric, FISCO BCOS, Hyperledger Iroha and Hyperledger Sawtooth.
