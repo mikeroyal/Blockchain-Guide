@@ -17,7 +17,27 @@
 
 1. [Blockchain Learning Resources](https://github.com/mikeroyal/Blockchain-Guide#blockchain-learning-resources)
 
+    - [Bitcoin/Lightning Network Resources](https://github.com/mikeroyal/Blockchain-Guide#bitcoinlightning-network-resources)
+
+    - [Courses](https://github.com/mikeroyal/Blockchain-Guide#courses)
+
+    - [Books](https://github.com/mikeroyal/Blockchain-Guide#books)
+
 2. [Blockchain Tools,Libraries and Frameworks](https://github.com/mikeroyal/Blockchain-Guide#blockchain-tools-libraries-and-frameworks)
+
+    - [Blockchain Distribution](https://github.com/mikeroyal/Blockchain-Guide#blockchain-distribution)
+
+    - [Lightning Network](https://github.com/mikeroyal/Blockchain-Guide#lightning-network)
+
+    - [Platforms](https://github.com/mikeroyal/Blockchain-Guide#platforms)
+
+    - [Utilities](https://github.com/mikeroyal/Blockchain-Guide#utilities)
+
+    - [Blockchain Explorers](https://github.com/mikeroyal/Blockchain-Guide#blockchain-explorers)
+
+    - [Blockchain Assets](https://github.com/mikeroyal/Blockchain-Guide#blockchain-assets)
+
+    - [Blockchain Playgrounds](https://github.com/mikeroyal/Blockchain-Guide#blockchain-playgrounds)
 
 3. [C/C++ Development](https://github.com/mikeroyal/Blockchain-Guide#cc-development)
 
@@ -45,29 +65,61 @@
 
 [Blockchain](https://www.blockchain.com/) is a distributed database meaning that the storage devices used for the database are not all connected to a common processor. It maintains a growing decentralized digital list of ordered records, called blocks. Each block has a timestamp and a link to a previous block. By the system being decentralization it allows for complete transparency in all shared information.
 
-[IBM Blockchain Essentials](https://www.ibm.com/skills/topics/blockchain/)
+## Bitcoin/Lightning Network Resources
 
-[Getting started with Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)
+-  [@lopp / Bitcoin Developers](https://twitter.com/lopp/lists/bitcoin-developers) - Software developers who have experience working on Bitcoin implementations or applications.
+ -  [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
+ -  [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 
-[Blockchain Developer Nanodegree program | Udacity](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+## Courses
 
-[Blockchain Programming: Build a blockchain and cryptocurrency from scratch using Python | Udemy](https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours/)
+- [IBM Blockchain Essentials](https://www.ibm.com/skills/topics/blockchain/)
+- [Getting started with Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)
+- [Blockchain Developer Nanodegree program | Udacity](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+- [Blockchain Programming: Build a blockchain and cryptocurrency from scratch using Python | Udemy](https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours/)
+- [Blockchain Courses by Coursera](https://www.coursera.org/courses?query=blockchain)
+- [Blockchain Courses by edX](https://www.edx.org/learn/blockchain)
+- [Blockchain Certifications](https://www.blockchain-council.org/)
+- [The Basics of Blockchain: A Beginner's Guide to Blockchain - Udemy](https://www.udemy.com/the-basics-of-blockchain/) 
+- [Bitcoin or How I learned to stop worrying and love Crypto - Udemy](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) 
+- [The Complete Ethereum Course - Udemy](https://www.udemy.com/ethereum/) 
+- [Ethereum Developer: Build A Decentralised Blockchain App  - Udemy](https://www.udemy.com/ethereum-developer/)
+- [Bitcoin - Khan Academy Series](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) 
+- [Bitcoin and Cryptocurrency Technologies - Princeton University](https://www.coursera.org/learn/cryptocurrency) 
+- [Crypto Currencies, the Blockchain, and Smart Contracts - Standford ](https://crypto.stanford.edu/cs251/) 
+- [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll - Pluralsight](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) 
+- [EatTheBlocks Pro](http://pro.eattheblocks.com)
+- [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](https://www.manning.com/livevideo/ethereum-dapps-in-motion?a_aid=eattheblocks)
+- [Blockchain for Finance Professionals - Experfy](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) 
+- [Blockchain Technology Fundamentals - Experfy](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) 
+- [Introduction to Digital Currencies - University of Nicosia](https://www.unic.ac.cy/blockchain/free-mooc/) 
 
-[Blockchain Courses by Coursera](https://www.coursera.org/courses?query=blockchain)
+## Books
 
-[Blockchain Courses by edX](https://www.edx.org/learn/blockchain)
+- [Bitcoin and Cryptocurrency Technologies (Textbook)](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
+- [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](http://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133)
+- [Blockchain: Blueprint for a New Economy](http://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)
+- [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology](http://www.amazon.com/Decentralized-Applications-Harnessing-Blockchain-Technology/dp/1491924543)
+- [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](http://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
+- [The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order](http://www.amazon.com/The-Age-Cryptocurrency-Challenging-Economic/dp/1250065631)
+-[A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
+- [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
+- [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
+- [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum).
+- [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum).
+- [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
+- [Btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Useful resources, guides and reference material for developers.
 
-[Blockchain Certifications](https://www.blockchain-council.org/)
+### E-Books
+
+- [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+- [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+- [IOTA Guide and FAQ by Matthew Winston Johnson](https://matthewwinstonjohnson.gitbooks.io/iota-guide-and-faq/content/)
 
 # Blockchain Tools, Libraries and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
-
-[Lightning Network (LN)](https://lightning.network/) is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. It was created in response to scalability issues with Bitcoin, namely the speed and cost of Bitcoin transactions. Bitcoin's current theoretical maximum transactions per second (TPS) is 10, though in reality it is between 3 and 7.
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/148870820-21722e8e-8fd3-4bd3-b755-d1e1cf006c29.png">
-  <br />
-</p>
 
 [Hyperledger](https://www.hyperledger.org) is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools like Hyperledger Caliper and libraries like Hyperledger Ursa.
 
@@ -101,6 +153,229 @@
 
 [Squeezer](https://squeezer.io/) is a platform that empowers new-entry blockchain developers to build serverless dApps easily. 
 
+## Blockchain Distribution
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+[The InterPlanetary File System (IPFS)](http://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650684-e5eeae8a-c4d5-49b3-ab4d-f427aad6aa76.png">
+  <br />
+</p>
+ 
+[BigChainDB](https://www.bigchaindb.com ) is a decentralized database, at scale. It is complementary to decentralized processing platforms like Ethereum, and decentralized file systems like InterPlanetary File System (IPFS).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650690-29cef869-59ed-4f9e-a727-979c65deb4b9.png">
+  <br />
+</p>
+
+[ScoreX](https://github.com/ScorexProject/Scorex) is a modular blockchain framework.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165651819-ea60e841-39e7-4eb6-af93-ba2eb795c449.png">
+  <br />
+</p>
+
+## Lightning Network
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+[Lightning Network (LN)](https://lightning.network/) is a decentralized network using smart contract functionality in the blockchain to enable instant payments across a network of participants. It was created in response to scalability issues with Bitcoin, namely the speed and cost of Bitcoin transactions. Bitcoin's current theoretical maximum transactions per second (TPS) is 10, though in reality it is between 3 and 7.
+
+[BOLT(Basis of Lightning Technology)](https://github.com/lightning/bolts) is a set of Lightning Network Specifications.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/148870820-21722e8e-8fd3-4bd3-b755-d1e1cf006c29.png">
+  <br />
+</p>
+
+## Platforms
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650748-b8b0724b-c43d-41e8-b792-27324e00a22f.png">
+  <br />
+</p>
+
+[Bitcoin](https://bitcoin.org) is the most popular cryptocurrency on Blockchain. [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+ 
+[Ethereum](https://www.ethereum.org) is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
+
+[Ethereum classic](https://ethereumclassic.github.io/) is a continuation of the original Ethereum blockchain - the classic version preserving untampered history, hard forked after [DAO hack](http://www.coindesk.com/understanding-dao-hack-journalists/)
+
+[Nxt](https://nxt.org) is an advanced blockchain platform which builds on and improves the basic functionality of pioneering cryptocurrencies such as Bitcoin. Cryptocurrency and financial systems are the first widely used applications of blockchain technology, but the blockchain and its associated technology can be used for so much more.
+
+[Monero](https://getmonero.org) - secure, private, untraceable currency. It is open-source and freely available to all
+ 
+[Azure blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) is a Blockchain as a Service from Microsoft. 
+
+[IBM blockchain](http://www.ibm.com/blockchain/) is a blockchain network in a cloud environment.
+
+[Waves](https://wavesplatform.com/) is a decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain.
+
+[Monax](https://monax.io/) is an ecosystem application platform. It sells legally compliant smart contract-based SDKs to accelerate your time to market with sophisticated ecosystem applications.
+
+[Emercoin](http://emercoin.com/) is a distributed blockchain services for business and personal use with its own decentralized DNS system.
+
+[NEM](https://www.nem.io) is a P2P system that provides services like payments, messaging, asset making, and naming system.
+
+[Ardor](https://www.ardorplatform.org/) - blockchain-as-a-service platform that will allow people to utilize the blockchain technology of Nxt through the use of child chains.
+
+[Decent](https://decent.ch/) is an blockchain content distribution platform.
+
+[Hyperledger](https://www.hyperledger.org/) is an open-source collaborative effort created to advance cross-industry blockchain technologies.
+
+[Multichain](http://www.multichain.com/) is an open platform for blockchain applications.
+
+[Stratis](https://stratisplatform.com/) is an end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework. Claims to be enterprise ready. 
+
+[Counterparty](http://counterparty.io/) is a tool to create and trade any kind of digital token and run smart contracts on blockchain.
+
+[Swarm](http://swarm-gateways.net/) is a serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data.
+
+[Chain](https://chain.com/) is an enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up.
+
+[Factom](https://www.factom.com) is a service that provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems.
+
+[Expanse](http://www.expanse.tech/) is a fault tolerant cloud computer built on blockchain technology that facilitates censorship resistant applications.
+
+[Corda](https://www.corda.net/) is an open-source blockchain project, designed for business, that allows you to build interoperable blockchain networks that transact in strict privacy.
+
+[Veres One](https://veres.one/) is an identity management on blockchain.
+
+[Vechain](https://www.vechain.com/) is a  blockchain-as-a-service (BaaS).
+
+[RSK](https://www.rsk.com/) is a smart contracts for Bitcoin.
+
+[ArcBlock](https://www.arcblock.io/) is a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web.
+
+[Covalent](https://www.covalenthq.com/) is a unified API bringing visibility to billions of blockchain data points.
+
+## Utilities
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650783-9e38252c-6f33-48ac-a189-2b607b14c046.png">
+  <br />
+</p>
+
+**Blockchain Diagram. Credit: [Hackernoon on Pinterest](https://www.pinterest.com/pin/442830575854162363/)**
+
+[Nigiri](https://github.com/vulpemventures/nigiri/) is a CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+ 
+[Nigiri in Travis](https://github.com/vulpemventures/nigiri-travis) -is a Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
+
+[hal](https://github.com/stevenroose/hal) is a Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+
+[BitKey](https://bitkey.io) is a live USB for airgapped transactions and Bitcoin swiss army knife.
+
+[Pycoin](https://github.com/richardkiss/pycoin) is a Python-based Bitcoin and alt-coin utility library.
+
+[bx](https://github.com/libbitcoin/libbitcoin-explorer) is a Bitcoin Command Line Tool.
+
+[txwatcher](https://github.com/tsileo/txwatcher) is a little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+
+[hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) is a collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+
+[HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) is a tol that finds all used addresses in your Bitcoin HD wallets bypassing gap limits.
+
+[LibreSelery](https://github.com/protontypes/libreselery) is an automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions. 
+
+## Blockchain Explorers
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650760-737e9805-36bc-4123-af97-d8cf3967b78c.png">
+  <br />
+</p>
+
+[Blockchain Explorer](https://www.blockchain.com/explorer) is a piece of software that takes raw data from nodes on a Blockchain, then organizes them into human-readable data and displays them to users through an API. 
+
+ - [Apirone.com](https://apirone.com/btc/)
+ - [Bitaps](https://bitaps.com/)
+ - [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
+ - [Block Explorer](https://blockexplorer.com/)
+ - [Blockchain Size:](https://blockchain.info/charts/blocks-size)
+ - [Blockonomics](https://www.blockonomics.co/)
+ - [Blockstack Explorer](https://explorer.blockstack.org/)
+ - [Blocktrail](https://www.blocktrail.com/BTC)
+ - [BTC Chain](https://btc.com/)
+ - [Coin Payments](https://explorer.coinpayments.net/)
+ - [Coin Prism](https://www.coinprism.info/)
+ - [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
+ - [EtherChain](https://etherchain.org/)
+ - [Ethereum Network Stats](https://stats.ethdev.com/)
+ - [Etherscan](https://etherscan.io/)
+ - [Ethplorer](https://ethplorer.io/)
+ - [Etherchain](https://etherchain.org/)
+ - [Trivial](https://trivial.co/)
+ - [Insight](https://insight.bitpay.com/)
+ - [Size of the Network](https://getaddr.bitnodes.io/)
+ - [Smartbit](https://www.smartbit.com.au/)
+ - [SoChain](https://chain.so/btc)
+ - [Tradeblock](https://tradeblock.com/markets)
+ - [Wallet Explorer](https://www.walletexplorer.com/)
+ - [WebBtc](https://webbtc.com/)
+ - [Exchangify](https://exchangify.io/)
+
+## Blockchain Assets
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/165650766-eff36dd1-668c-42b0-8a6c-5a62ba6072be.png">
+  <br />
+</p>
+
+[Blockchain assets](https://www.blockchain-council.org/blockchain/asset-tokenization/) are a type of digital asset or cryptocurrency. It represents stakes in a particular project or company. Others are intended to be currencies, like Bitcoin, and do not represent a stake in a particular organization.
+
+ - [EverLedger](https://www.everledger.io/)
+ - [OpenPublish](https://github.com/blockai-unofficial/openpublish)
+ - [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
+
+## Blockchain Playgrounds
+
+[Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
+
+**Blockchain Playground** is designed to provide a simple playground to help learn the basic concepts of blockchain. 
+
+[Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) is a Bitcoin Script for dummies.
+
+[Blockchain-demo](https://github.com/anders94/blockchain-demo/) is a web-based demonstration of blockchain concepts.
+
+[Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) is a visualize Bitcoin script execution for real transactions.
+
+[Bitauth IDE](https://ide.bitauth.com/) is an interactive development environment for Bitcoin contracts.
+
+[WebBTC](http://dumps.webbtc.com/bitcoin/) is a postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
+
+[BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) is a high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
+
+[Blockparser+SQL](https://github.com/mcdee/blockparser) is fast, quick and dirty bitcoin blockchain parser.
+
+[BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) is a block browser for Bitcoin and similar currencies.
+
+[NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) is a scalable and fault-tolerant block chain indexer for Azure cloud platform.
+
+[Blockchain2Graph](https://github.com/straumat/blockchain2graph) is a Graph Database Builder.
+
+[Chaingraph](https://github.com/bitauth/chaingraph/) is a multi-node blockchain indexer and GraphQL API.
+
+[btcd](https://github.com/btcsuite/btcd/) is a Go-based full node since 2013.
+
+[Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) is a bitcoin node based on bitcoin-ruby-blockchain.
+
+[Fullnode](https://github.com/moneybutton/yours-bitcoin) is a Javascript implementation of bitcoin.
+
+[Bitcore Node](https://github.com/bitpay/bitcore-node) is a bitcoind linked to node.js by BitPay.
+
+[Bitcore](https://github.com/bitpay/bitcore) is formerly just a Nodejs library, now a full node.
+
 # C/C++ Development
 [Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
 
@@ -108,6 +383,10 @@
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
   <br />
 </p>
+
+-   [Libbitcoin](https://libbitcoin.org/)
+-   [libwally-core](https://github.com/ElementsProject/libwally-core)
+-   [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## C/C++ Learning Resources
 
@@ -130,8 +409,6 @@
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 [Introduction C++ Education course on Google Developers](https://developers.google.com/edu/c++/)
-
-[C++ style guide for Fuchsia](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
 
 [C and C++ Coding Style Guide by OpenTitan](https://docs.opentitan.org/doc/rm/c_cpp_coding_style/)
 
@@ -249,6 +526,10 @@
   <br />
 </p>
 
+-   [BitcoinJ](https://bitcoinj.github.io)
+-   [XChange](https://github.com/timmolter/XChange) 
+
+
 ## Java Learning Resources
 
 [Java](https://www.oracle.com/java/) is a popular programming language and development platform(JDK). It reduces costs, shortens development timeframes, drives innovation, and improves application services. With millions of developers running more than 51 billion Java Virtual Machines worldwide.
@@ -350,6 +631,8 @@
   <br />
 </p>
 
+ - [btcd](https://github.com/btcsuite/btcd/) is a Go-based full node since 2013.
+
 ## Go Learning Resources
 
 [Go](https://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software.
@@ -427,6 +710,10 @@
   <br />
 </p>
 
+- [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
+- [btctxstore](https://github.com/F483/btctxstore) 
+- [pycoin](https://github.com/richardkiss/pycoin)
+- [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)
 
 ## Python Learning Resources
 
@@ -549,7 +836,14 @@
 
 </p>
 
-## TypeScript Learning Resources
+-  [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+-  [Bitcore Library](https://github.com/bitpay/bitcore-lib)
+-  [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
+-  [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+-  [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
+-  [bcoin](https://github.com/bcoin-org/bcoin) 
+
+## JavaScript/TypeScript Learning Resources
 
 [TypeScript](https://www.typescriptlang.org) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.
 
@@ -567,7 +861,7 @@
 
 [GitHub Actions for JavaScript and TypeScript](https://docs.github.com/en/actions/language-and-framework-guides/github-actions-for-javascript-and-typescript)
 
-## Tools
+## JavaScript/TypeScript Tools
 
 [WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
 
@@ -634,6 +928,9 @@
   <br />
 </p>
 
+-   [NBitcoin](https://github.com/MetacoSA/NBitcoin) 
+-   [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) 
+-   [QBitNinja](https://github.com/MetacoSA/QBitNinja) 
 
 ## C# Learning  Resources
 
@@ -663,7 +960,7 @@
 
 [RabbitMQ .NET/C# Client API](https://www.rabbitmq.com/dotnet-api-guide.html)
 
-## Tools
+## C# Tools
 
 [Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
 
@@ -717,6 +1014,8 @@
   <br />
 </p>
 
+ - [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+
 ## Ruby Learning Resources
 
 [Ruby](https://www.ruby-lang.org/en/) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
@@ -741,7 +1040,7 @@
 
 [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
 
-## Tools
+## Ruby Tools
 
 [RubyMine](https://www.jetbrains.com/ruby/) is a professional IDE developed by Jet Brains that provides support for Ruby, Ruby on Rails and web development.
 
@@ -784,6 +1083,9 @@
   <br />
 </p>
 
+-  [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
+-  [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
+
 ## PHP Learning Resources
 
 [PHP](https://www.php.net/) is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
@@ -802,7 +1104,7 @@
 
 [PHP MySQL & CodeIgniter Course on Udemy](https://www.udemy.com/course/php-mysql-codeigniter-complete-guide/)
 
-## Tools
+## PHP Tools
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
@@ -915,18 +1217,6 @@
 [Rustlings](https://github.com/rust-lang/rustlings) is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
-
-## Operating Systems
-
-[Redox](https://www.redox-os.org) is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications. Acitvely being developed by [Jeremy Soeller](https://gitlab.redox-os.org/jackpot51).
-
-[Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) is an open-source Linux-based operating system meant for hosting containers. Bottlerocket focuses on security and maintainability, providing a reliable, consistent, and safe platform for container-based workloads.
-
-[Tock](https://www.tockos.org) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. Tock uses two mechanisms to protect different components of the operating system. First, the kernel and device drivers are written in Rust, a systems programming language that provides compile-time memory safety, type safety and strict aliasing. Tock uses Rust to protect the kernel (the scheduler and hardware abstraction layer) from platform specific device drivers as well as isolate device drivers from each other. Second, Tock uses memory protection units to isolate applications from each other and the kernel.
-
-[Rust on Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/rust_on_cros.md) is a document that provides information on creating Rust projects for installation within Chrome OS and Chrome OS SDK.
-
-[Writing an OS in Rust ](https://os.phil-opp.com) is a blog series creates a small operating system in the Rust programming language by [Philipp Oppermann](https://github.com/phil-opp).
 
 # Erlang Development
 [Back to the Top](https://github.com/mikeroyal/Blockchain-Guide#table-of-contents)
